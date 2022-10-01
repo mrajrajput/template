@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pandora-4.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pandora-layout-4.0.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/pandora-theme-4.0.0-jakarta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pandora-theme-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
